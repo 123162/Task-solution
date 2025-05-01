@@ -1,5 +1,8 @@
 # 🩺 Medical Semantic Search
 
+## FEEDBACK
+
+I have completed the testing process. I welcome your feedback and comments on areas for improvement.
 This project is a semantic search engine for medical text. User questions are converted into embeddings and matched against a Weaviate vector database to retrieve the most semantically relevant answers.
 
 ## 🚀 Features
